@@ -1,2 +1,2 @@
 # cpp_projects
-cpp projects
+Random projects to learn C++
